@@ -3,7 +3,7 @@ Below are links for  _**Visual Analytics**_ of _**Titanic Disaster**_ and _**New
 
 I completed the first Project as a part of _**Data Analyst Nanodegree**_ in Udacity.com.
 
-The 2nd one I completed as a fun.
+The 2nd one I completed as a fun..
 
 __[Titanic Disaster in Tableau](https://public.tableau.com/profile/krishna2474#!/vizhome/TitanicData_20/Story3?publish=yes)__
 
